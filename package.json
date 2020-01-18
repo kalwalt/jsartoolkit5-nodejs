@@ -1,0 +1,25 @@
+{
+  "name": "jsartoolkit5-nodejs",
+  "version": "1.0.0",
+  "description": "testing jsartoolkit5",
+  "keywords": [
+    "ARToolKit",
+    "AR",
+    "jsartoolkit5",
+    "Augmented Reality"
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "jsartoolkit5": "^0.0.0"
+  },
+  "scripts": {
+    "test": "",
+    "build": "node index.js"
+  },
+  "keywords": [
+    "jsartoolkit5"
+  ],
+  "author": "@kalwalt https://github.com/kalwalt",
+  "repository": "git://https://github.com/kalwalt/jsartoolkit5-nodejs.git",
+  "license": "GPL-3.0-or-later"
+}

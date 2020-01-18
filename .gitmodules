@@ -1,0 +1,3 @@
+[submodule "jsartoolkit5"]
+	path = jsartoolkit5
+	url = https://github.com/kalwalt/jsartoolkit5.git
