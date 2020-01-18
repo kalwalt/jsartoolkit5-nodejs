@@ -9,9 +9,6 @@
     "Augmented Reality"
   ],
   "main": "index.js",
-  "devDependencies": {
-    "jsartoolkit5": "^0.0.0"
-  },
   "scripts": {
     "test": "",
     "build": "node index.js"
