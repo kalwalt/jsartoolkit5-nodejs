@@ -1,5 +1,5 @@
 const jsartoolkit5 = require("./jsartoolkit5/js/artoolkit.api.js");
-
+var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 console.log('we are here !');
 console.log(jsartoolkit5);

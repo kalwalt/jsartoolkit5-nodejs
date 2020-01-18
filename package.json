@@ -1,6 +1,6 @@
 {
   "name": "jsartoolkit5-nodejs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "testing jsartoolkit5",
   "keywords": [
     "ARToolKit",
@@ -13,10 +13,10 @@
     "test": "",
     "build": "node index.js"
   },
-  "keywords": [
-    "jsartoolkit5"
-  ],
-  "author": "@kalwalt https://github.com/kalwalt",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "author": "Walter Perdan @kalwalt https://github.com/kalwalt",
   "repository": "git://https://github.com/kalwalt/jsartoolkit5-nodejs.git",
   "license": "GPL-3.0-or-later"
 }
