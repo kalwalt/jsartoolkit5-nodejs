@@ -9,6 +9,7 @@
     "Augmented Reality"
   ],
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "",
     "build": "node index.js"
